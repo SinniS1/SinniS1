@@ -3,11 +3,15 @@
 <h3 align="center">Crafting Modern and Responsive Web Interfaces with React and Front-End Technologies</h3>
 
 
-- 🔭 I’m currently working on [Copilot UI Clone](https://github.com/SinniS1/Copilot)
+- 🔭 I’m currently working on Pokemon Wikipedia Website
 
-- 🚀 I landed my first website on Internet [Networkwizards](https://networkwizards.tech/)
+- 🚀 Mey landed websites are.
 
-- 🌱 I’m currently learning **NextJS, React Native**
+- [Networkwizards](https://networkwizards.tech/)
+
+- [Copilot UI Clone](https://copilot-pearl.vercel.app/)
+
+- 🌱 I’m currently learning **NextJS, Figma**
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
