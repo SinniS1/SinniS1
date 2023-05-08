@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
 <h3 align="center">Passionate Front-End Developer</h3>
 <h3 align="center">Crafting Modern and Responsive Web Interfaces with React and Front-End Technologies</h3>
-<p></p>
 
 - 🔭 I’m currently working on Pokemon Wikipedia Website
 
