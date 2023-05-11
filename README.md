@@ -10,11 +10,7 @@
 
 - [Copilot UI Clone](https://copilot-pearl.vercel.app/)
 
-- 🌱 I’m currently learning **NextJS, Figma**
-
 - 👯 I’m looking to collaborate on **ReactJS**
-
-- 📫 You can reach me here **sinniscode@gmail.com**
 
 ---
 
