@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Pokemon Wikipedia Website
 
-- 🚀 Mey landed websites are.
+- 🚀 My landed websites are.
 
 - [Networkwizards](https://networkwizards.tech/)
 
