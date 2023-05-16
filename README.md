@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on Pokemon Wikipedia Website
 
+- I'm currently learning Typescript with React.
+
 - 🚀 My landed websites are.
 
 - [Networkwizards](https://networkwizards.tech/)
