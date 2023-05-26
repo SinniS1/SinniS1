@@ -14,7 +14,7 @@
 
 - [Tesla UI Project](https://tesla-teal.vercel.app/)
 
-- [YouTueb UI Project](https://youtube-pearl-five.vercel.app/)
+- [YouTube UI Project](https://youtube-pearl-five.vercel.app/)
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
