@@ -12,6 +12,8 @@
 
 - [Copilot UI Clone](https://copilot-pearl.vercel.app/)
 
+- [Tesla UI Project](https://tesla-teal.vercel.app/)
+
 - 👯 I’m looking to collaborate on **ReactJS**
 
 ---
