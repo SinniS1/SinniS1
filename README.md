@@ -18,6 +18,8 @@
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
+- 📧 sinniscode@gmail.com
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
