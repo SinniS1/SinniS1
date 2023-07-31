@@ -10,7 +10,7 @@
 
 - [DigitalGrowth](https://digital-growth.vercel.app/)
 
-- [Networkwizards](https://networkwizards.tech/)
+- [Networkwizards](https://network-wizards.vercel.app/)
 
 - [Copilot UI Clone](https://copilot-pearl.vercel.app/)
 
